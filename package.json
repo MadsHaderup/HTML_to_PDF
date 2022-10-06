@@ -1,0 +1,22 @@
+{
+  "name": "htmlpdftool",
+  "version": "1.0.0",
+  "description": "Convert from HTML to PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadsHaderup/HTML_to_PDF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadsHaderup/HTML_to_PDF/issues"
+  },
+  "homepage": "https://github.com/MadsHaderup/HTML_to_PDF#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
